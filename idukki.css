@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-image: url(./images/idukki.jpg);
+    background-size: cover;
+}
+p {
+    color: rgb(9, 8, 10);
+}

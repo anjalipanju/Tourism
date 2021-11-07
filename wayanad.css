@@ -1,0 +1,15 @@
+
+body h2{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-image: url(./images/Wayanad-in-Kerala.jpg);
+    background-size: cover;
+    color: brown;
+    
+}
+p {
+    color: white;
+    background-color: black;
+}

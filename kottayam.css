@@ -1,0 +1,14 @@
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-image: url(./images/kottayam.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+p {
+    color: hsl(256, 31%, 93%);
+    background-color: black;
+}

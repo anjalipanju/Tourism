@@ -1,0 +1,12 @@
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-image: url(./images/kollam.jpg);
+    background-size: cover;
+}
+p {
+    color: rgb(246, 245, 248);
+    background-color: black;
+}

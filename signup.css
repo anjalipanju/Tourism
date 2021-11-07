@@ -1,0 +1,11 @@
+
+body {
+    background-image: url(images/signup.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+form {
+    height: 5%;
+    width: 30%;
+    margin-left: 36%;
+}

@@ -1,0 +1,12 @@
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-image: url(./images/eranakulam.png);
+    background-size: cover;
+}
+p {
+    color: #e6e3f0;
+    background-color: black;
+}

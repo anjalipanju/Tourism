@@ -1,0 +1,14 @@
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-image: url(./images/alappuzha.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+p {
+    color: rgb(11, 11, 12);
+    /* background-color: black; */
+}

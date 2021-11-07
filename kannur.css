@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-image: url(./images/kannnur.jpg);
+    background-size: cover;
+}
+p{
+    color:#15cf34 ;
+    background-color:black ;
+}

@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-image: url(./images/kozhikode.jpg);
+    background-size: cover;
+}
+p{
+    color: pink ;
+    background-color: black;
+}

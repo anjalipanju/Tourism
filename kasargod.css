@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-image: url(./images/kasargode_860x510.jpg);
+    background-size: cover;
+}
+p {
+    color: hsl(262, 65%, 3%);
+}
